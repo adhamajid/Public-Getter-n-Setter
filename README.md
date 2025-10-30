@@ -1,7 +1,7 @@
 # Public-Getter-n-Setter
 Level2 dari Getter n Setter sebelumnya
 
-Kenapa variabelnya private, tapi getter/setter-nya public?
+##Kenapa variabelnya private, tapi getter/setter-nya public?
 Karena konsep enkapsulasi
 
 Enkapsulasi = menyembunyikan data internal dari akses langsung luar kelas.
